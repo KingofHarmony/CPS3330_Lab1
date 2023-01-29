@@ -4,6 +4,7 @@ string[] names; // can reference any size array of strings
 WriteLine("Hello Andy Mateo");
 WriteLine("Version: {0}", Environment.Version.ToString());
 
+
 // allocating memory for four strings in an array
 names = new string[4];
 
